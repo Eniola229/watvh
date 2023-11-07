@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eniola229/watvh.git/static/css/main.befb0866.css",
+    "main.js": "/Eniola229/watvh.git/static/js/main.a0c7a91e.js",
+    "index.html": "/Eniola229/watvh.git/index.html",
+    "static/media/search.svg": "/Eniola229/watvh.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "static/media/logo.svg": "/Eniola229/watvh.git/static/media/logo.3b1381327f623457e7c2eaf7de1e5a57.svg",
+    "main.befb0866.css.map": "/Eniola229/watvh.git/static/css/main.befb0866.css.map",
+    "main.a0c7a91e.js.map": "/Eniola229/watvh.git/static/js/main.a0c7a91e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.befb0866.css",
+    "static/js/main.a0c7a91e.js"
+  ]
+}
